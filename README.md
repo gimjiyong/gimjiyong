@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimjiyong&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Kim Ji Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimjiyong&show_icons=true&theme=cobalt)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324)](https://solved.ac/jykim00324/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gimjiyong&langs_count=10&layout=compact)](https://github.com/gimjiyong)
+
 ## Stack
 
 ### Frontend
