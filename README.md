@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimjiyong&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://solved.ac/jykim00324/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width=50% />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width=47% />
 </a>
 <a href="#">
-  <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width=50% />
+  <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width=47% />
 </a>
 <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimjiyong&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
