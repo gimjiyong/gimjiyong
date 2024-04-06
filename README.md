@@ -39,11 +39,11 @@
 ## Stats
 
 <a href="https://solved.ac/jykim00324/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width=38% />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width=41% />
 </a>
 </a>    
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=gimjiyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=gimjiyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=53% />
 </a>
 
 <a href="#">
