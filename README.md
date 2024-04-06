@@ -1,22 +1,3 @@
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimjiyong&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=gimjiyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-</a>
-
-<a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gimjiyong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-
-## Problem Solving
-
-<a href="https://solved.ac/jykim00324/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width=42% />
-</a>
-<a href="#">
-  <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width=52% />
-</a>
 
 ## Stack
 
@@ -54,3 +35,18 @@
     <img src ="https://img.shields.io/badge/gitlab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img src ="https://img.shields.io/badge/mattermost-0058CC.svg?&style=for-the-badge&logo=mattermost&logoColor=white"/>
 </div>
+
+## Stats
+
+<a href="https://solved.ac/jykim00324/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width=38% />
+</a>
+</a>    
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=gimjiyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+
+<a href="#">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gimjiyong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
