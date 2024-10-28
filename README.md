@@ -22,16 +22,12 @@
 ### Backend
 <div>
   <img src="https://img.shields.io/badge/django-092E20.svg?&style=flat&logo=django&logoColor=white"/>
-</div>
-<div>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
 </div>
 
 ### Others
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>
-</div>
-<div>
   <img src="https://img.shields.io/badge/Google Maps-4285F4.svg?&style=flat&logo=googlemaps&logoColor=white"/>
 </div>
 
