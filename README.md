@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/NEXT.js-000000.svg?&style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white"/>
-</div>
-<div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Zustand-4C433C.svg?&style=flat&logoColor=black"/>
