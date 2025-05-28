@@ -51,10 +51,10 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="https://solved.ac/jykim00324/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="38%" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="45%" />
   </a>
   <a href="https://leetcode.com/jykim00324/">
-    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="46%" />
+    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="55%" />
   </a>
 </div>
 
