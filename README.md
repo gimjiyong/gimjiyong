@@ -1,4 +1,4 @@
-<div width="100%">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004C5C,50:086F83,100:0A9396&height=200&section=header&&animation=fadeIn&fontColor=ffffff" />
 
 ## 💻 Core Technologies
@@ -51,10 +51,10 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="https://solved.ac/jykim00324/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="44%" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="43%" />
   </a>
   <a href="https://leetcode.com/jykim00324/">
-    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="55%" />
+    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="53%" />
   </a>
 </div>
 
