@@ -1,55 +1,66 @@
-<div align="center">
-
-## Stack
-
-### Frontend
 <div>
-  <img src="https://img.shields.io/badge/NEXT.js-000000.svg?&style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=flat&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Zustand-4C433C.svg?&style=flat&logoColor=black"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004C5C,50:086F83,100:0A9396&height=200&section=header&&animation=fadeIn&fontColor=ffffff" />
+
+## 💻 Core Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+## 🎨 Frontend
+
+### Frameworks & Libraries
+
+![Next.js](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4C433C?style=for-the-badge&logoColor=black)
+
+### Styling
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+
+## ⚙️ Backend
+
+### Framework
+
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Database
+
+![GreenplumDB](https://img.shields.io/badge/Greenplum-89B941?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)
+
+## 🔧 Development Tools
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+
+## 📊 Problem Solving Stats
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://solved.ac/jykim00324/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="43.5%" />
+  </a>
+  <a href="https://leetcode.com/jykim00324/">
+    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="56.5%" />
+  </a>
 </div>
+
+<br />
+
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093.svg?&style=flat&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?&style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS Modules-000000.svg?&style=flat&logo=cssmodules&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004C5C,50:086F83,100:0A9396&height=200&section=footer" />
 </div>
-
-### Backend
-<div>
-  <img src="https://img.shields.io/badge/django-092E20.svg?&style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
-</div>
-
-### Others
-<div>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google Maps-4285F4.svg?&style=flat&logo=googlemaps&logoColor=white"/>
-</div>
-
-### Team
-<div>
-    <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=flat&logo=gitlab&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jirasoftware&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=mattermost&logoColor=white"/>
-</div>
-
-## Stats
-
-<a href="https://solved.ac/jykim00324/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="43.5%" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=gimjiyong&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="50.5%" />
-</a>
-
-<a href="#">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gimjiyong&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
-</a>
-
 </div>
