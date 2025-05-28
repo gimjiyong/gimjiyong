@@ -1,4 +1,4 @@
-<div>
+<div width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004C5C,50:086F83,100:0A9396&height=200&section=header&&animation=fadeIn&fontColor=ffffff" />
 
 ## 💻 Core Technologies
