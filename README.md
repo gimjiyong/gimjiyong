@@ -54,7 +54,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jykim00324" width="41%" />
   </a>
   <a href="https://leetcode.com/jykim00324/">
-    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="52%" />
+    <img src="https://leetcard.jacoblin.cool/jykim00324?theme=dark" width="50%" />
   </a>
 </div>
 
